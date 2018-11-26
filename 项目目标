@@ -1,0 +1,6 @@
+项目目标：
+
+实现packstbeat对sip数据包，rtp数据包的解析
+
+使用语言：golang
+
