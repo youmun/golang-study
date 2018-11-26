@@ -9,3 +9,9 @@ https://github.com/avelino/awesome-go
 https://github.com/uhub/awesome-go 
 
 http://bigbully.github.io/Dapper-translation/ 
+
+https://tour.golang.org/list
+
+https://golang.org/doc/faq
+
+https://golang.org/doc/
