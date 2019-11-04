@@ -14,7 +14,9 @@
 ## 使用go实现的一些可能使用的软件：<br/>
 - es-apm 中的go-client <br/>
 - packetbeat
+- metricbeat
 
 es中的golang项目
 ------------------
 解析sip，h323协议抓包
+增加metricbeat采集组件的信息
